@@ -7,9 +7,7 @@ import ProductDetail from "./pages/Products/ProductDetail"
 import ProductAdd from "./pages/Products/ProductAdd"
 
 
-// JSX => HTML + JS
-// HTML'de keywordün ismini değiştirmek
-// class => className
+
 export default function App() {
   return <>
     <Navbar />
